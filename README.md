@@ -46,12 +46,3 @@ This repository contains Python code to generate a graph illustrating the perfor
 - The graph may not exactly match the provided example due to slight changes in the data.
 
 
-## License
-
-This project is licensed under the [Your License] License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Please replace `[Your Name]` with your name and `[Your License]` with the appropriate license for your project.
-
-Feel free to add more sections or details to the README to provide further clarity or instructions if needed.
